@@ -18,3 +18,6 @@ It also connects design and development more closely by allowing designers to bu
 
 
 
+### Comment by Andy Liu
+
+I find it quite surprising that the author, as a designer, shifted from tools like Figma to the default macOS Terminal for his work. Even with the rise of AI, I would expect most designers to stay with whatever tools they have always been using, but now AI-powered. I wonder if CLI tools will become more mainstream amongst designers down the line, or if they will stay niche.
